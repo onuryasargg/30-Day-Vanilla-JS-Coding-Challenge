@@ -45,7 +45,7 @@ kbd{
 }
 
 .playing{
-    transform: scale(1.1); /* bu sınıfa sahio olanları 1.1 oranında büyüt hem x hem y yönünde */
+    transform: scale(1.1); /* bu sınıfa sahip olanları 1.1 oranında büyüt hem x hem y yönünde */
     border-color: #ffc600;
     box-shadow: 0 0 1rem #ffc600;
 }
