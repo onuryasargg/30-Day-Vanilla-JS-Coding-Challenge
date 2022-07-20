@@ -1,5 +1,5 @@
 # 30-Day-Vanilla-JS-Coding-Challenge
-I will build 30 different app in 30 days
+I will build 30 different app in 30 days </br>
 Comments are writed with Turkish Language
 
 --First Day--
