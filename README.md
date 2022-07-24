@@ -22,3 +22,15 @@ Array Cardio Day 1
 --Fifth Day--
 Flex Panel Gallery
 ![5](https://user-images.githubusercontent.com/61773458/180597519-0c73f4df-1e8f-49f3-bf29-5214080bfbda.png)
+
+--Sixth Day--
+Type Ahead
+![type](https://user-images.githubusercontent.com/61773458/180661997-1c3ac985-1a71-40ce-934f-f6d9cd109bb7.png)
+
+--Seventh Day--
+Array Cardio Day 2
+![array2](https://user-images.githubusercontent.com/61773458/180662041-71f9e698-13f8-41ce-b0eb-a9a051d19f83.png)
+
+--Eighth Day --
+Fun With HTML5 Canvas
+![canva](https://user-images.githubusercontent.com/61773458/180662047-968cbb15-6c49-4262-98e9-9d06d2014796.png)
