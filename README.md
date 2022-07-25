@@ -6,7 +6,6 @@ Comments are writed with Turkish Language
 Javascript Drum Kit
 ![1](https://user-images.githubusercontent.com/61773458/180597511-20195c2a-3a67-4f0f-a14d-e95a256b763a.jpg)
 
-
 --Second Day--
 CSS + JS Clock
 ![2](https://user-images.githubusercontent.com/61773458/180597514-327831e7-9c3e-46bf-9fde-1875ecd3cf61.jpg)
@@ -31,6 +30,10 @@ Type Ahead
 Array Cardio Day 2
 ![array2](https://user-images.githubusercontent.com/61773458/180662041-71f9e698-13f8-41ce-b0eb-a9a051d19f83.png)
 
---Eighth Day --
+--Eighth Day--
 Fun With HTML5 Canvas
 ![canva](https://user-images.githubusercontent.com/61773458/180662047-968cbb15-6c49-4262-98e9-9d06d2014796.png)
+
+--Ninth Day--
+Dev Tools Domination
+![consoletricks](https://user-images.githubusercontent.com/61773458/180867066-5fcfc4f9-055d-4f1b-aecb-73dbd9f14116.png)
