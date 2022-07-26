@@ -37,3 +37,7 @@ Fun With HTML5 Canvas
 --Ninth Day--
 Dev Tools Domination
 ![consoletricks](https://user-images.githubusercontent.com/61773458/180867066-5fcfc4f9-055d-4f1b-aecb-73dbd9f14116.png)
+
+--Tenth Day--
+Hold Shift and Check Checkboxes
+![10](https://user-images.githubusercontent.com/61773458/181109577-053850ef-32f3-4075-9b81-478e57171681.png)
