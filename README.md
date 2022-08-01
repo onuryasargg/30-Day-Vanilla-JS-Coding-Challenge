@@ -41,3 +41,11 @@ Dev Tools Domination
 --Tenth Day--
 Hold Shift and Check Checkboxes
 ![10](https://user-images.githubusercontent.com/61773458/181109577-053850ef-32f3-4075-9b81-478e57171681.png)
+
+--Eleventh Day--
+Custom Video Player
+![11](https://user-images.githubusercontent.com/61773458/182112507-bdbb18b5-a85e-460d-8734-d7668fb096ea.png)
+
+--twelfth Day--
+Key Sequence Detection
+![12](https://user-images.githubusercontent.com/61773458/182112538-429654d0-2bdd-4548-931b-1ad3b6d3bb34.png)
