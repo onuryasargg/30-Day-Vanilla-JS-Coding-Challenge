@@ -51,7 +51,7 @@ const onur = {
 };
 
 console.clear();
-console.log(wes);
+console.log(onur);
 
-const dev = Object.assign({}, wes);
-const dev2 = JSON.parse(JSON.stringify(wes));
+const dev = Object.assign({}, onur);
+const dev2 = JSON.parse(JSON.stringify(onur));
